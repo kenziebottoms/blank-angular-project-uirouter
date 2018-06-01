@@ -2,13 +2,13 @@
 
 An empty Grunt-running setup including:
 
-![](https://img.shields.io/badge/updated-mar_6th_2018-green.svg)
-![](https://img.shields.io/badge/grunt-v1.0.2-yellow.svg)
-![](https://img.shields.io/badge/browserify-v5.2.0-red.svg)
-![](https://img.shields.io/badge/angularJS-v1.6.9-red.svg)
-![](https://img.shields.io/badge/ui--router-v1.0.15-yellow.svg)
-![](https://img.shields.io/badge/jquery-v3.3.1-blue.svg)
-![](https://img.shields.io/badge/lodash-v4.17.5-blue.svg)
+![](https://img.shields.io/badge/updated-june_1st_2018-green.svg)
+![](https://img.shields.io/badge/grunt-1.0.2-ED8024.svg)
+![](https://img.shields.io/badge/browserify-v5.3.0-pink.svg)
+![](https://img.shields.io/badge/angularJS-v1.7.0-D00027.svg)
+![](https://img.shields.io/badge/ui--router-v1.0.18-yellow.svg)
+![](https://img.shields.io/badge/jquery-v3.3.1-005FAD.svg)
+![](https://img.shields.io/badge/lodash-v4.17.10-3554FF.svg)
 
 # Using this repo
 
@@ -30,7 +30,7 @@ These are listed as dependencies in `package.json` already.
 npm install
 ```
 
-_Note_: To use Angular and UI Router, you must copy the below minified JavaScript files into the dist folder. This is to minimize misery during deployment.
+_Note_: To use Angular and UI Router, you must copy the below minified JavaScript files into the `dist` folder. This is to minimize misery during deployment.
 
 ### Run the server
 
